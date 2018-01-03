@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<input>
+  <dealer_strategy>
+    <Hard5> H </Hard5>
+    <Hard6> H </Hard6>
+    <Hard7> H </Hard7>
+    <Hard8> H </Hard8>
+    <Hard9> H </Hard9>
+    <Hard10> H </Hard10>
+    <Hard11> H </Hard11>
+    <Hard12> H </Hard12>
+    <Hard13> H </Hard13>
+    <Hard14> H </Hard14>
+    <Hard15> H </Hard15>
+    <Hard16> H </Hard16>
+    <Hard17> S </Hard17>
+    <Hard18> S </Hard18>
+    <Hard19> S </Hard19>
+    <Hard20> S </Hard20>
+    <Hard21> S </Hard21>
+    <Soft13> H </Soft13>
+    <Soft14> H </Soft14>
+    <Soft15> H </Soft15>
+    <Soft16> H </Soft16>
+    <Soft17> S </Soft17>
+    <Soft18> S </Soft18>
+    <Soft19> S </Soft19>
+    <Soft20> S </Soft20>
+    <Soft21> S </Soft21>
+    <Pair2> H </Pair2>
+    <Pair3> H </Pair3>
+    <Pair4> H </Pair4>
+    <Pair5> H </Pair5>
+    <Pair6> H </Pair6>
+    <Pair7> H </Pair7>
+    <Pair8> H </Pair8>
+    <Pair9> S </Pair9>
+    <Pair10> S </Pair10>
+    <PairA> S </PairA>
+  </dealer_strategy>
+</input>

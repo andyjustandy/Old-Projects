@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<input>
+  <environment>
+    <number_of_decks> 2 </number_of_decks>
+    <deal_percentage> 80 </deal_percentage>
+    <dealer_stands_on_soft17> true </dealer_stands_on_soft17>
+    <double_on> Any_2_Cards </double_on>
+    <double_after_split> true </double_after_split>
+    <surrender_option> No_Surrender </surrender_option>
+    <resplit_option> No_Resplit </resplit_option>
+
+    <cannot_split_aces> false </cannot_split_aces>
+    <resplit_aces> true </resplit_aces>
+    <hit_split_aces> true </hit_split_aces>
+    <cannot_split_4s_5s_10s> true </cannot_split_4s_5s_10s>
+    <shuffle_after_each_hand> false </shuffle_after_each_hand>
+
+    <dealer_peeks_option> Not_Peeks_For_BJ </dealer_peeks_option>
+    <card_bonus_option> No_Card_Trick_Bonus </card_bonus_option>
+    <lucky_777> false </lucky_777>
+    <bj_pays_option> Pays3to2 </bj_pays_option>
+    <suited_bj_pays_2to1> false </suited_bj_pays_2to1>
+    <dealer_strategy>
+      <Hard5>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> H </Dealer4>
+        <Dealer5> H </Dealer5>
+        <Dealer6> H </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard5>
+      <Hard6>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> H </Dealer4>
+        <Dealer5> H </Dealer5>
+        <Dealer6> H </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard6>
+      <Hard7>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> H </Dealer4>
+        <Dealer5> H </Dealer5>
+        <Dealer6> H </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard7>
+      <Hard8>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> H </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard8>
+      <Hard9>
+        <Dealer2> D </Dealer2>
+        <Dealer3> D </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> D </Dealer7>
+        <Dealer8> D </Dealer8>
+        <Dealer9> D </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard9>
+      <Hard10>
+        <Dealer2> D </Dealer2>
+        <Dealer3> D </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> D </Dealer7>
+        <Dealer8> D </Dealer8>
+        <Dealer9> D </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard10>
+      <Hard11>
+        <Dealer2> D </Dealer2>
+        <Dealer3> D </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> D </Dealer7>
+        <Dealer8> D </Dealer8>
+        <Dealer9> D </Dealer9>
+        <Dealer10> D </Dealer10>
+        <DealerA> D </DealerA>
+      </Hard11>
+      <Hard12>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard12>
+      <Hard13>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard13>
+      <Hard14>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard14>
+      <Hard15>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Hard15>
+      <Hard16>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> R </Dealer10>
+        <DealerA> R </DealerA>
+      </Hard16>
+      <Hard17>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Hard17>
+      <Hard18>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Hard18>
+      <Hard19>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Hard19>
+      <Hard20>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Hard20>
+      <Hard21>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Hard21>
+
+      <Soft13>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Soft13>
+      <Soft14>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Soft14>
+      <Soft15>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Soft15>
+      <Soft16>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Soft16>
+      <Soft17>
+        <Dealer2> D </Dealer2>
+        <Dealer3> D </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Soft17>
+      <Soft18>
+        <Dealer2> S </Dealer2>
+        <Dealer3> D </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> S </DealerA>
+      </Soft18>
+      <Soft19>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Soft19>
+      <Soft20>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Soft20>
+      <Soft21>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Soft21>
+
+      <Pair2>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> P </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Pair2>
+      <Pair3>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> P </Dealer7>
+        <Dealer8> P </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Pair3>
+      <Pair4>
+        <Dealer2> H </Dealer2>
+        <Dealer3> H </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> H </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Pair4>
+      <Pair5>
+        <Dealer2> D </Dealer2>
+        <Dealer3> D </Dealer3>
+        <Dealer4> D </Dealer4>
+        <Dealer5> D </Dealer5>
+        <Dealer6> D </Dealer6>
+        <Dealer7> D </Dealer7>
+        <Dealer8> D </Dealer8>
+        <Dealer9> D </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Pair5>
+      <Pair6>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> P </Dealer7>
+        <Dealer8> H </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> H </Dealer10>
+        <DealerA> H </DealerA>
+      </Pair6>
+      <Pair7>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> P </Dealer7>
+        <Dealer8> P </Dealer8>
+        <Dealer9> H </Dealer9>
+        <Dealer10> R </Dealer10>
+        <DealerA> H </DealerA>
+      </Pair7>
+      <Pair8>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> P </Dealer7>
+        <Dealer8> P </Dealer8>
+        <Dealer9> P </Dealer9>
+        <Dealer10> P </Dealer10>
+        <DealerA> P </DealerA>
+      </Pair8>
+      <Pair9>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> P </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> P </Dealer8>
+        <Dealer9> P </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Pair9>
+      <Pair10>
+        <Dealer2> S </Dealer2>
+        <Dealer3> S </Dealer3>
+        <Dealer4> S </Dealer4>
+        <Dealer5> S </Dealer5>
+        <Dealer6> S </Dealer6>
+        <Dealer7> S </Dealer7>
+        <Dealer8> S </Dealer8>
+        <Dealer9> S </Dealer9>
+        <Dealer10> S </Dealer10>
+        <DealerA> S </DealerA>
+      </Pair10>
+      <PairA>
+        <Dealer2> P </Dealer2>
+        <Dealer3> P </Dealer3>
+        <Dealer4> H </Dealer4>
+        <Dealer5> P </Dealer5>
+        <Dealer6> P </Dealer6>
+        <Dealer7> P </Dealer7>
+        <Dealer8> P </Dealer8>
+        <Dealer9> P </Dealer9>
+        <Dealer10> P </Dealer10>
+        <DealerA> P </DealerA>
+      </PairA>
+    </dealer_strategy>
+  </environment>
+</input> 
