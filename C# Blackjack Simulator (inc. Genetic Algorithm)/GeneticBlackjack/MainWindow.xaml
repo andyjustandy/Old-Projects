@@ -57,8 +57,8 @@
                         </DataGrid>
 
 
-                        <Label x:Name="lblTitleBetStrategy" Content="Bet Strategy:" HorizontalAlignment="Left" Margin="62,775,0,0" VerticalAlignment="Top" Height="41" Width="294" FontSize="20" FontFamily="Segoe UI Black" Grid.ColumnSpan="2"/>
-                        <StackPanel Margin="12,816,1074,83" Grid.Column="1" >
+                        <Label x:Name="lblTitleBetStrategy" Content="Bet Strategy:" HorizontalAlignment="Left" Margin="59,791,0,0" VerticalAlignment="Top" Height="41" Width="294" FontSize="20" FontFamily="Segoe UI Black" Grid.ColumnSpan="2"/>
+                        <StackPanel Margin="20,827,1066,72" Grid.Column="1" >
                             <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Height="30">
                                 <Label x:Name="lblPlayerBalance" FontSize="16" Content="Starting Balance (£):   " Margin="0,4,0,-17" Width="164"/>
                                 <TextBox x:Name="txtbPlayerBalanceSlider" FontSize="16" Text="{Binding Value, ElementName=playerBalanceSlider}" TextAlignment="Right" VerticalAlignment="Center" IsReadOnly="True" Margin="25,8,0,0" Width="91" Height="22"/>
@@ -66,15 +66,13 @@
                             <Slider x:Name="playerBalanceSlider" Minimum="1000" Maximum="1000000" Value="1000" IsSnapToTickEnabled="True" TickFrequency="1000" Margin="0,0,247,0"/>
                         </StackPanel>
 
-                        <StackPanel Margin="371,816,715,83" Grid.Column="1" >
+                        <StackPanel Margin="377,827,709,72" Grid.Column="1" >
                             <StackPanel Margin="0,0,0,0" Orientation="Horizontal" Height="30">
                                 <Label x:Name="lblPlayerFlatBet" FontSize="16" Content="Flat Bet Amount (£): " Margin="0,4,0,-9" Width="152"/>
                                 <TextBox x:Name="txtbPlayerFlatBetSlider" FontSize="16" Text="{Binding Value, ElementName=playerFlatBetSlider}" TextAlignment="Right" VerticalAlignment="Center" IsReadOnly="True" Margin="25,8,0,0" Width="91" Height="22"/>
                             </StackPanel>
                             <Slider x:Name="playerFlatBetSlider" Minimum="1" Maximum="10000" Value="1" IsSnapToTickEnabled="True" TickFrequency="1" Margin="0,0,247,0"/>
                         </StackPanel>
-                        <Label x:Name="lblBetStrategy" Content="Bet Strategy:" HorizontalAlignment="Left" Margin="12,871,0,0" VerticalAlignment="Top" Height="41" Width="293" FontSize="16" Grid.Column="1"/>
-                        <ComboBox x:Name="ddlBetStrategy" HorizontalAlignment="Left" Margin="129,878,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.508,0.227" Grid.Column="1"/>
 
                         <Border x:Name="EnvironmentInputBorder" BorderBrush="Black" BorderThickness="1" Height="798" Margin="731,24,29,0" VerticalAlignment="Top" Grid.Column="1"/>
                         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="96" Margin="731,851,0,0" VerticalAlignment="Top" Width="808" Grid.Column="1"/>
@@ -338,7 +336,7 @@
 
                     </Grid>
                 </TabItem>
-                <TabItem x:Name ="Tab_GE_Report" FontSize="16" Header="Evolution Report" Margin="26,0,-30,-2">
+                <TabItem x:Name ="Tab_GE_Report" FontSize="16" Header="Evolution Report" Margin="26,0,-30,-2" IsEnabled="False">
                     <Grid Background="#FFE5E5E5" Margin="0,1,-1,-1">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="5*"/>
