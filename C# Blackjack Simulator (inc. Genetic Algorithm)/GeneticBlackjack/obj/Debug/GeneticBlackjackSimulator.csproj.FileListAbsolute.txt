@@ -26,3 +26,6 @@ C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic A
 C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic Algorithm)\FYPGeneticBlackjack\obj\Debug\FYPGeneticBlackjack.g.resources
 C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic Algorithm)\FYPGeneticBlackjack\obj\Debug\FYPGeneticBlackjack.Properties.Resources.resources
 C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic Algorithm)\FYPGeneticBlackjack\obj\Debug\GeneticBlackjackSimulator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic Algorithm)\GeneticBlackjack\bin\Debug\FYPGeneticBlackjack.exe.config
+C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic Algorithm)\GeneticBlackjack\obj\Debug\FYPGeneticBlackjack.exe
+C:\Users\User\Documents\Projects (GitHub)\C# Blackjack Simulator (inc. Genetic Algorithm)\GeneticBlackjack\obj\Debug\FYPGeneticBlackjack.pdb

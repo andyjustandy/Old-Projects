@@ -1,0 +1,41 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>My Website</title>
+
+    <link rel="stylesheet" type="text/css" href="Styles/StyleSheet.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+        <div id="banner">
+        </div>
+        <div id="navigation">
+            <ul id="navSelect">
+                <li><a href="default.aspx" runat="server">Home</a></li>
+                <li><a href="allStaffLocations.aspx" >All Staff</a></li>
+                <li><a href="findStaff.aspx" >Find Staff</a></li>
+                <li><a href="viewLocation.aspx" >View Location</a></li>
+                <li><a href="editStaff.aspx">Edit Staff</a></li>
+                <li><a href="changeLocation.aspx" ">Change Location</a></li>
+            </ul>
+        </div>
+        
+        
+
+        <div id="content_area">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <div id="footer">
+            <p>
+                Created by Andrew Lai for the purpose of 08246 ACW.</p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
