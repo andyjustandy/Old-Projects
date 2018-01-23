@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\bin\Debug\QuantBank Developer Test.exe.config
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\bin\Debug\QuantBank Developer Test.exe
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\bin\Debug\QuantBank Developer Test.pdb
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\App.g.cs
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test_MarkupCompile.cache
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test_MarkupCompile.lref
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.g.resources
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank_Developer_Test.Properties.Resources.resources
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.exe
+C:\Users\User\Desktop\QuantBank Developer Test 1\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.pdb
+C:\Users\User\Desktop\QuantBank Developer Test - Andrew Lai\QuantBank Developer Test\bin\Debug\QuantBank Developer Test.exe.config
+C:\Users\User\Desktop\QuantBank Developer Test - Andrew Lai\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.exe
+C:\Users\User\Desktop\QuantBank Developer Test - Andrew Lai\QuantBank Developer Test\obj\Debug\QuantBank Developer Test.pdb

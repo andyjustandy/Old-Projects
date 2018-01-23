@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\bin\Debug\QuantBank Developer Test.exe
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\bin\Debug\QuantBank Developer Test.pdb
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\User\Desktop\QuantBank Developer Test 1\UnitTests\obj\Debug\UnitTests.pdb

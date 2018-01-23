@@ -1,0 +1,31 @@
+﻿<Window x:Class="QuantBank_Developer_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuantBank_Developer_Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="341.581" Width="512.371">
+    <Grid>
+        <Label x:Name="lbl_Title" Content="QuantBank Pin Generator" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_FirstName" Content="First Name:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_LastName" Content="Last Name:" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_DOB" Content="DOB:" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_SortCode" Content="SortCode:" HorizontalAlignment="Left" Margin="10,190,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_AccountNumber" Content="AccountNumber:" HorizontalAlignment="Left" Margin="10,240,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_PreviousPins" Content="Previous Pins:" HorizontalAlignment="Left" Margin="168,40,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtb_FirstName" HorizontalAlignment="Left" Height="23" Margin="14,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtb_LastName" HorizontalAlignment="Left" Height="23" Margin="14,114,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtb_DOB" HorizontalAlignment="Left" Height="23" Margin="14,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtb_SortCode" HorizontalAlignment="Left" Height="23" Margin="14,214,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtb_SortCode_KeyDown"/>
+        <TextBox x:Name="txtb_AccountNumber" HorizontalAlignment="Left" Height="23" Margin="14,264,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtb_AccountNumber_KeyDown"/>
+        <TextBox x:Name="txtb_PreviousPin1" HorizontalAlignment="Left" Height="23" Margin="172,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtb_PreviousPin1_KeyDown"/>
+        <TextBox x:Name="txtb_PreviousPin2" HorizontalAlignment="Left" Height="23" Margin="172,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtb_PreviousPin2_KeyDown"/>
+        <TextBox x:Name="txtb_PreviousPin3" HorizontalAlignment="Left" Height="23" Margin="172,120,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtb_PreviousPin3_KeyDown"/>
+        <Button x:Name="btn_GeneratePin" Content="Generate Pin" HorizontalAlignment="Left" Margin="172,164,0,0" VerticalAlignment="Top" Width="120" Height="23" Click="btn_GeneratePin_Click"/>
+        <Label x:Name="lbl_ResultPin" Content="???" Background="Azure" HorizontalAlignment="Left" Margin="347,64,0,0" VerticalAlignment="Top" Height="79" Width="114" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="24"/>
+        <Label x:Name="lbl_TitleResult" Content="Generated Pin:" HorizontalAlignment="Left" Margin="341,40,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
