@@ -1,0 +1,56 @@
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe.config
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.cache
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.lref
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.g.resources
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet_Developer_Challenge.Properties.Resources.resources
+C:\Users\User\Desktop\Access QuantBet's website, extracting html, solving the developer challenge\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe.config
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\App.g.cs
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.cache
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.lref
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.g.resources
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet_Developer_Challenge.Properties.Resources.resources
+C:\Users\User\Desktop\QuantBet Developer Challenge v4\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe.config
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\App.g.cs
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.cache
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.lref
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.g.resources
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet_Developer_Challenge.Properties.Resources.resources
+C:\Users\User\Desktop\QuantBet Developer Challenge v4 - Task Try\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe.config
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\bin\Debug\QuantBet Developer Challenge.pdb
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\App.g.cs
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.cache
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge_MarkupCompile.lref
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.g.resources
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet_Developer_Challenge.Properties.Resources.resources
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.exe
+C:\Users\User\Desktop\QuantBet Developer Challenge - Andrew Lai\QuantBet Developer Challenge\obj\Debug\QuantBet Developer Challenge.pdb
